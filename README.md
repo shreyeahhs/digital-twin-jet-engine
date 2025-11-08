@@ -309,7 +309,7 @@ You are free to modify, use, and integrate it into academic, personal, or commer
 
 **Shreyas Gowda B**  
 MSc Data Science, University of Glasgow  
-LinkedIn: [linkedin]([https://www.linkedin.com/in/shreyas-gowda-5316b51b1/])
+LinkedIn: [Shreyas Gowda](https://www.linkedin.com/in/shreyas-gowda-5316b51b1/)
 
 ----------
 
